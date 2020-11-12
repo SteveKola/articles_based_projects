@@ -1,0 +1,480 @@
+S/N,Bootcamp ID,Name,Gender,Community
+1,DSNAIB001,Alexander Ifenaike,Male,Campus- AI+ UI
+2,DSNAIB002,Busayo Awobade,Male,Campus- AI+ FUNAAB
+3,DSNAIB003,Ahmed Adegunle,Male,City- AI+ Ado-Ekiti
+4,DSNAIB004,Adepoju Oluwadara,Female,City- AI+ Abeokuta
+5,DSNAIB005,Imonmion Emmanuel Bright,Male,Campus- AI+ UNIBEN
+6,DSNAIB006,Emelike Caleb,Male,
+7,DSNAIB007,Cadeton Precious,Female,Campus- AI+ AAU
+8,DSNAIB008,Ayobami Akomolafe,Male,City- AI+ Ado-Ekiti
+9,DSNAIB009,Adejumobi Joshua,Female,Campus- AI+ FUNAAB
+10,DSNAIB010,Moyosore Oduwole,Female,City- AI+ Abeokuta
+11,DSNAIB011,Olamilekan Omotosho,Male,Campus- AI+ FUTA
+12,DSNAIB012,Matthew Oke,Male,Campus- AI+ FUTA
+13,DSNAIB013,Abdulqadri Afolabi,Male,Campus- AI+ FUT
+14,DSNAIB014,Gladens Popoola,Female,Campus- AI+ FUNAAB
+15,DSNAIB015,Fatima Rufai,Female,
+16,DSNAIB016,Amina Rufai,Female,Campus- AI+ UNILAG
+17,DSNAIB017,Lemule Peter Oluwatosin,Male,City- AI+ Abeokuta
+18,DSNAIB018,Gift Oscar Ojeabulu,Male,City- AI+ Ijebu-Ode
+19,DSNAIB019,Opeyemi Osakuade,Female,City- AI+ Ado-Ekiti
+20,DSNAIB020,Steven Kolawole,Male,City- AI+ Abeokuta
+21,DSNAIB021,Oyerinde Samuel,Male,Campus- AI+ FUNAAB
+22,DSNAIB022,Ayotunde Alabi,Male,Campus- AI+ OAU
+23,DSNAIB023,Chiamaka Sandra Igweonu,Female,Campus- AI+ UNILAG
+24,DSNAIB024,Damola Oriola,Male,
+25,DSNAIB025,Olaleye Eniola,Male,Campus- AI+ UNILAG
+26,DSNAIB026,Emmanuel O. Okwudike,Male,Campus- AI+ UNIBEN
+27,DSNAIB027,Rasheedat Atinuke Jamiu,Female,Campus- AI+ BUK
+28,DSNAIB028,Chigozie Nkwocha,Male,
+29,DSNAIB029,Justus Ilemobayo,Male,Campus- AI+ OAU
+30,DSNAIB030,Jammal Adeyemi,Male,Campus- AI+ UNILAG
+31,DSNAIB031,Adeyemo Oluwatosin Maryam,Female,City- AI+ Port Harcourt
+32,DSNAIB032,Arnold Ighiwiyisi,Male,City- AI+ Benin
+33,DSNAIB033,Precious Kolawole,Female,Campus- AI+ OAU
+34,DSNAIB034,Odejide Meshach,Male,Campus- AI+ FUTA
+35,DSNAIB035,Isaac Olowookere,Male,
+36,DSNAIB036,Yusuf Abdulakeem Akanni,Male,Campus- AI+ FUTA
+37,DSNAIB037,Olalekan Igboroodowo,Male,Campus- AI+ FUTA
+38,DSNAIB038,Benedict Ejelonu,Male,City- AI+ Owerri
+39,DSNAIB039,Adeniran John,Male,Campus- AI+ FUTA
+40,DSNAIB040,Geoffrey Israel Chinedu,Male,City- AI+ Owerri
+41,DSNAIB041,Richie Uchenna Akparuorji,Male,Campus- AI+ UNILAG
+42,DSNAIB042,Adebayo Aonullahi,Male,
+43,DSNAIB043,Paul Okewunmi,Male,Campus- AI+ OAU
+44,DSNAIB044,Ernest Owojori,Male,Campus- AI+ UI
+45,DSNAIB045,Boluwatife Awe,Male,Campus- AI+ UI
+46,DSNAIB046,Khairat Ayinde,Female,City- AI+ Osogbo
+47,DSNAIB047,Adetoro Adedeji,Female,Campus- AI+ UNILAG
+48,DSNAIB048,Temilola Onaneye,Male,Campus- AI+ UNILAG
+49,DSNAIB049,Olabiwoninu Waliulahi Ayomide,Male,Campus- AI+ FUT
+50,DSNAIB050,Adeoluwa Adeboye,Male,City- AI+ Akure
+51,DSNAIB051,Omoniyi Temidayo Andrew,Male,Campus- AI+ FUTA
+52,DSNAIB052,Oluwadamisola Adedeji,Male,Campus- AI+ FUNAAB
+53,DSNAIB053,Toheeb Olayemi,Male,Campus- AI+ UNILAG
+54,DSNAIB054,Samuel Ogunlola,Male,Campus- AI+ FUNAAB
+55,DSNAIB055,Emmanuel Onwuegbusi,Male,
+56,DSNAIB056,Prince Ikpabi,Male,Campus- AI+ UI
+57,DSNAIB057,Abiodun Uthman Allison,Male,Campus- AI+ UI
+58,DSNAIB058,Femi Fashola,Male,City- AI+ Abeokuta
+59,DSNAIB059,Abiodun Sanni,Male,
+60,DSNAIB060,Eucharia Alaguva,Female,
+61,DSNAIB061,Yosola Adekanmbi,Male,City- AI+ Abeokuta
+62,DSNAIB062,Israel Aminu,Male,Campus- AI+ LASU
+63,DSNAIB063,Sotunbo David,Male,City- AI+ Abuja
+64,DSNAIB064,Oluwatobi Odubela,Female,Campus- AI+ UNILAG
+65,DSNAIB065,Adenuga Kolade,Male,Campus- AI+ OAU
+66,DSNAIB066,Muhammad King Yakub,Male,Campus- AI+ FUT
+67,DSNAIB067,Michael Ajiboye,Male,Campus- AI+ OAU
+68,DSNAIB068,Masturah Moshood,Female,Campus- AI+ FUNAAB
+69,DSNAIB069,Raheem Nasirudeen Adeleye,Male,Campus- AI+ UI
+70,DSNAIB070,Ahmed Babajide Olanrewaju,Male,City- AI+ Ibadan
+71,DSNAIB071,Samuel Emmanuel,Male,Campus- AI+ FUTA
+72,DSNAIB072,Abideen Muhammed,Male,Campus- AI+ LASU
+73,DSNAIB073,Adeyokunnu Oluwatobi Anointing,Male,Campus- AI+ FUNAAB
+74,DSNAIB074,Precious Asubiaro,Male,Campus- AI+ OAU
+75,DSNAIB075,Olasope Daramola Fiyinfoluwa,Male,City- AI+ Abeokuta
+76,DSNAIB076,Grace Kolawole,Female,Campus- AI+ UNILAG
+77,DSNAIB077,Ogunbajo Adeyinka,Male,City- AI+ Abeokuta
+78,DSNAIB078,Eneojo Joshua Ogboyi,Male,Campus- AI+ UNILAG
+79,DSNAIB079,Olawale Ojo,Male,Campus- AI+ UNILAG
+80,DSNAIB080,Anthony Emmanuel,Male,Campus- AI+ BUK
+81,DSNAIB081,Aina Emmanuel,Male,Campus- AI+ FUNAAB
+82,DSNAIB082,Iyanuloluwa Osuolale,Male,
+83,DSNAIB083,Samuel Mbah,Male,City- AI+ Abuja
+84,DSNAIB084,Paul Louis Chinelo,Male,
+85,DSNAIB085,Goodness Opateye,Male,Campus- AI+ OAU
+86,DSNAIB086,Mmuokuba Michael Chiemerie,Male,City- AI+ Owerri
+87,DSNAIB087,Waris Sanusi,Male,Campus- AI+ UI
+88,DSNAIB088,Ifeoluwa Wuraola,Female,Campus- AI+ UNILORIN
+89,DSNAIB089,Abduljelil Akande,Male,Campus- AI+ LASU
+90,DSNAIB090,Kayode Makinde,Male,Campus- AI+ FUNAAB
+91,DSNAIB091,Adeyinka Sotunde,Male,Campus- AI+ UNILAG
+92,DSNAIB092,Oluwatosin Aina,Male,Campus- AI+ OAU
+93,DSNAIB093,Nurudeen Abolarinwa,Male,Campus- AI+ OAU
+94,DSNAIB094,Jessica Chioma,Female,Campus- AI+ UNILAG
+95,DSNAIB095,Adekoya Ayomide,Male,Campus- AI+ UI
+96,DSNAIB096,Abada Samuel,Male,Campus- AI+ FUTA
+97,DSNAIB097,Christopher Somoye,Male,Campus- AI+ FUTA
+98,DSNAIB098,Ruqayaah Sabitu,Female,Campus- AI+ UI
+99,DSNAIB099,Abdusalam Oladapo,Male,Campus- AI+ UI
+100,DSNAIB100,Alayonimi Toluwanimi Bifarin,Male,Campus- AI+ OAU
+101,DSNAIB101,Temiloluwa Samuel,Male,Campus- AI+ UI
+102,DSNAIB102,Bunmi Akinremi,Female,Campus- AI+ OAU
+103,DSNAIB103,Ekun Kelvin,Male,Campus- AI+ UI
+104,DSNAIB104,Sulaiman Ibigbami,Male,Campus- AI+ UI
+105,DSNAIB105,Olaonipekun Olanrewaju,Male,Campus- AI+ LASU
+106,DSNAIB106,Edet Asuquo,Male,City- AI+ Uyo
+107,DSNAIB107,Oluwajuwon Odunitan,Male,Campus- AI+ UNILAG
+108,DSNAIB108,Abdullateef Ogundipe,Male,Campus- AI+ UI
+109,DSNAIB109,Isah Abdul-Azeez,Male,Campus- AI+ UI
+110,DSNAIB110,Oluwadunsin Fajemila,Male,Campus- AI+ OAU
+111,DSNAIB111,Oluwafemi Omotoso,Male,Campus- AI+ FUTA
+112,DSNAIB112,Oluwabunmi Adetunji,Female,Campus- AI+ OAU
+113,DSNAIB113,Oni Shiloh Adebisi,Female,Campus- AI+ FUNAAB
+114,DSNAIB114,Olawale Ibrahim,Male,City- AI+ Akure
+115,DSNAIB115,Esosa Gregory Asemota,Male,Campus- AI+ UNIBEN
+116,DSNAIB116,Olamide Abimbola,Male,Campus- AI+ OAU
+117,DSNAIB117,Favour James,Female,Campus- AI+ OAU
+118,DSNAIB118,Chidinma Afamefuna,Female,Campus- AI+ OAU
+119,DSNAIB119,David Oberewu,Male,City- AI+ Jos
+120,DSNAIB120,Giwa Yusuf,Male,Campus- AI+ UI
+121,DSNAIB121,Anthony Isaiah,Male,Campus- AI+ UNILAG
+122,DSNAIB122,Olayinka Iyiola,Male,Campus- AI+ OAU
+123,DSNAIB123,Adeyinka Oresanya,Female,Campus- AI+ UI
+124,DSNAIB124,Ayodele Awokoya,Female,Campus- AI+ UI
+125,DSNAIB125,Esther Mustapha,Female,City- AI+ Abeokuta
+126,DSNAIB126,Nelson Ogbeide,,Campus- AI+ AAU
+127,DSNAIB127,Victor Adeife,Male,Campus- AI+ OAU
+128,DSNAIB128,Aliu Adekola,Male,Campus- AI+ OAU
+129,DSNAIB129,Adio Fuad Abiodun,Male,Campus- AI+ FUTA
+130,DSNAIB130,Victoria Fadare,Female,Campus- AI+ LAUTECH
+131,DSNAIB131,Isaiah Aimiton,Male,Campus- AI+ LASU
+132,DSNAIB132,Tiamiyu Hamzat,Male,Campus- AI+ OAU
+133,DSNAIB133,Adnan Adekunle Adetunji,Male,Campus- AI+ UNILORIN
+134,DSNAIB134,Akolade Ojesina,Male,Campus- AI+ UI
+135,DSNAIB135,Olayinka Akinwonjowo,Female,Campus- AI+ UI
+136,DSNAIB136,Fortune Uwha,Female,City- AI+ Asaba
+137,DSNAIB137,Joseph Osuntoki,Male,Campus- AI+ OAU
+138,DSNAIB138,Odita Chike Jude,Male,City- AI+ Abuja
+139,DSNAIB139,Yusuf Adamu,Male,Campus- AI+ OAU
+140,DSNAIB140,Ndu Jude Chukwuebuka,Male,Campus- AI+ MOUAU
+141,DSNAIB141,Genevieve Nwagwu,Female,
+142,DSNAIB142,Oluwatosin Sanni,Male,Campus- AI+ LASU
+143,DSNAIB143,Abubakar Alaro,Male,City- AI+ Osogbo
+144,DSNAIB144,Oluwatobi Akintunlese,Male,
+145,DSNAIB145,Usman Abdulkareem,Male,Campus- AI+ UI
+146,DSNAIB146,Adedayo Adebesin,Female,Campus- AI+ OAU
+147,DSNAIB147,Temitope Beloved Olamilekan,Male,Campus- AI+ FUNAAB
+148,DSNAIB148,Victor Olufemi,Male,Campus- AI+ OAU
+149,DSNAIB149,Joseph Olaide,Male,Campus- AI+ UNILAG
+150,DSNAIB150,Arimoro Olayinka Imisioluwa,Male,Campus- AI+ UNILAG
+151,DSNAIB151,Abdulkareem Babatunde,Male,Campus- AI+ OAU
+152,DSNAIB152,Oluwaseyi Gbadamosi,Male,City- AI+ Ilorin
+153,DSNAIB153,Sharon Ibejih,Female,
+154,DSNAIB154,Onwuka Daniel,Male,Campus- AI+ FUTA
+155,DSNAIB155,Taiwo Owoseni,Female,Campus- AI+ UNILAG
+156,DSNAIB156,Chibuike Stephen Ogbonna,Male,Campus- AI+ UNIBEN
+157,DSNAIB157,Temiloluwa Awoyele,Male,Campus- AI+ FUTA
+158,DSNAIB158,Oluwatobi Adeniji,Female,Campus- AI+ UNILAG
+159,DSNAIB159,Olayanju Richard Olabisi,Male,Campus- AI+ BOWEN
+160,DSNAIB160,Anita Igbine,Female,City- AI+ Port Harcourt
+161,DSNAIB161,Olusola Aremu,Male,Campus- AI+ LASU
+162,DSNAIB162,Felix Ayoola,Male,Campus- AI+ OAU
+163,DSNAIB163,Damilola Onanuga,Male,Campus- AI+ LASU
+164,DSNAIB164,Ayanwoye Gideon Ayandele,Male,Campus- AI+ OAU
+165,DSNAIB165,Opuere Falabi,Female,City- AI+ Abeokuta
+166,DSNAIB166,Odeajo Israel,Male,City- AI+ Ibadan
+167,DSNAIB167,Akinyiga Obadamilare Dunmininu,Male,City- AI+ Ijebu-Ode
+168,DSNAIB168,John Godday,Male,Campus- AI+ LAUTECH
+169,DSNAIB169,Lydia Ojoawo,Female,Campus- AI+ OAU
+170,DSNAIB170,Chidinma Kalu,Female,City- AI+ Uyo
+171,DSNAIB171,Joshua Ogundairo,Male,Campus- AI+ FUTA
+172,DSNAIB172,Oluwadamilare Oladele,Male,Campus- AI+ LASU
+173,DSNAIB173,Michael Abegunde,Male,Campus- AI+ UI
+174,DSNAIB174,Adedamola Adeyemo,Male,Campus- AI+ OAU
+175,DSNAIB175,Oluwagbenga Orimoogunje,Male,Campus- AI+ OAU
+176,DSNAIB176,Dorcas Olajide,Female,Campus- AI+ OAU
+177,DSNAIB177,Emmanuel Omidiora,Male,Campus- AI+ OAU
+178,DSNAIB178,Abegunde Adebowale Nathaniel,Male,Campus- AI+ UI
+179,DSNAIB179,Oluyemisi Yesufu,Female,Campus- AI+ OAU
+180,DSNAIB180,Charles Echefu,Male,Campus- AI+ UNILAG
+181,DSNAIB181,Blessing Agadagba,Female,City- AI+ Port Harcourt
+182,DSNAIB182,Samuel Damilola Ayelawa,Male,Campus- AI+ OAU
+183,DSNAIB183,Victor Aderibigbe,Male,Campus- AI+ UI
+184,DSNAIB184,Nwobodo Ekene Leonard,Male,City- AI+ Enugu
+185,DSNAIB185,Leo Dzingirai,Male,
+186,DSNAIB186,Johnmicheal Uzendu,Male,City- AI+ Enugu
+187,DSNAIB187,Success Ologunsua,Female,
+188,DSNAIB188,Peace Iyoha,Male,Campus- AI+ UNIBEN
+189,DSNAIB189,Oluwabunmi Iwakin,Male,City- AI+ Ibadan
+190,DSNAIB190,Kehinde Bobade,Female,Campus- AI+ FUNAAB
+191,DSNAIB191,Popoola Daniel,Male,
+192,DSNAIB192,Akeem Feyisupo,Male,Campus- AI+ OAU
+193,DSNAIB193,Patience Ozumba,Female,City- AI+ Abeokuta
+194,DSNAIB194,Bilikis Fadeyi,Female,Campus- AI+ LASU
+195,DSNAIB195,Oluwafemi Abiona,Male,Campus- AI+ OAU
+196,DSNAIB196,Israel Komolehin,Male,Campus- AI+ UI
+197,DSNAIB197,Qudus Bidemi Adeyemi,Male,Campus- AI+ UNILAG
+198,DSNAIB198,Abdulwasiu Tiamiyu,Male,Campus- AI+ OAU
+199,DSNAIB199,Peter Adekolu,Male,Campus- AI+ OAU
+200,DSNAIB200,Olalekan Temitayo,Female,Campus- AI+ OAU
+201,DSNAIB201,Abdulmalik Bello,Male,Campus- AI+ OAU
+202,DSNAIB202,Afuape Temitayo,Female,City- AI+ Abeokuta
+203,DSNAIB203,Oyerinde Femiloye,Male,Campus- AI+ FUTA
+204,DSNAIB204,Esther Oyarinde,Female,City- AI+ Osogbo
+205,DSNAIB205,Joshua Akinola,Male,Campus- AI+ UI
+206,DSNAIB206,Mubarak Agboola,Male,Campus- AI+ UI
+207,DSNAIB207,"Ogunniran, Oluwasijibomi",Male,Campus- AI+ UI
+208,DSNAIB208,Olawumi Oladoyin Deborah,Female,City- AI+ Abeokuta
+209,DSNAIB209,Charles Onyema Igah,Male,City- AI+ Benin
+210,DSNAIB210,Jeremiah Nwaneri,Male,City- AI+ Owerri
+211,DSNAIB211,Akinyemi Damilare David,Male,Campus- AI+ UNILORIN
+212,DSNAIB212,Rukayat Adesoye,Female,Campus- AI+ UNILORIN
+213,DSNAIB213,Muhammad Suleiman Folorunsho,Male,City- AI+ Ilorin
+214,DSNAIB214,Oyewole Yetunde,Female,Campus- AI+ OAU
+215,DSNAIB215,Oluwawemimo Folayan,Female,Campus- AI+ OAU
+216,DSNAIB216,Victor Ojewale,Male,Campus- AI+ UI
+217,DSNAIB217,Nzube Vitus Onuigwe,Male,City- AI+ Abuja
+218,DSNAIB218,Oluwatoba Adesugba,Male,Campus- AI+ OAU
+219,DSNAIB219,Ogunbanjo Peter Damilola,Male,Campus- AI+ FUNAAB
+220,DSNAIB220,Blessing Egharevba,Female,Campus- AI+ OAU
+221,DSNAIB221,Stephen Oduh,Male,
+222,DSNAIB222,Oluwapelumi Adejumo,Male,Campus- AI+ FUOYE
+223,DSNAIB223,Opeyemi Seriki,Female,Campus- AI+ UNIBEN
+224,DSNAIB224,Jamiu Tijani,Male,Campus- AI+ LASU
+225,DSNAIB225,Justice Ebenezer,Male,City- AI+ Port Harcourt
+226,DSNAIB226,Oluwadamifogore Daramola,Male,Campus- AI+ FUTA
+227,DSNAIB227,Mariam Yusuf,Female,Campus- AI+ LAUTECH
+228,DSNAIB228,Omobolanle Adeyemi,Female,City- AI+ Akure
+229,DSNAIB229,Nimat Ize Ibrahim,Female,Campus- AI+ BUK
+230,DSNAIB230,Ndane Ndazhaga,Female,
+231,DSNAIB231,Olajumoke Bakare,Female,Campus- AI+ LAUTECH
+232,DSNAIB232,Rildwan Jimoh,Male,Campus- AI+ UNILORIN
+233,DSNAIB233,Adedoyin Jasanya,Male,Campus- AI+ FUTA
+234,DSNAIB234,Afolashade Akindele,Female,City- AI+ Abeokuta
+235,DSNAIB235,Awwal Oduwale,Male,Campus- AI+ FUTA
+236,DSNAIB236,Olukolatimi David,Male,Campus- AI+ UNILAG
+237,DSNAIB237,Azeez Razaq,Male,Campus- AI+ LASU
+238,DSNAIB238,Ayodeji Ibimilua,Male,City- AI+ Ado-Ekiti
+239,DSNAIB239,Olufemi Victor,Male,Campus- AI+ UNILORIN
+240,DSNAIB240,Mary Adekanmi,Female,Campus- AI+ LAUTECH
+241,DSNAIB241,Ebuka Obobo,Male,Campus- AI+ UNIBEN
+242,DSNAIB242,Mohammed Bayero Yayandi,Male,City- AI+ Kaduna
+243,DSNAIB243,Lawrence Okegbemi,Male,Campus- AI+ FUTA
+244,DSNAIB244,Boluwatife Lawal,Male,Campus- AI+ LASU
+245,DSNAIB245,Okanlawon Olayemi,Male,Campus- AI+ FUOYE
+246,DSNAIB246,Chinonso Ekwo,Male,Campus- AI+ ESUT
+247,DSNAIB247,Oluwanifemi Abimbola,Female,
+248,DSNAIB248,Damilola Moses Adebayo,Male,City- AI+ Ibadan
+249,DSNAIB249,James Olayinka,Male,Campus- AI+ UI
+250,DSNAIB250,Taiwo Ajagunsegun,Male,Campus- AI+ FUTA
+251,DSNAIB251,Joshua Onoja Joseph,Male,City- AI+ Jos
+252,DSNAIB252,Erike Uzoma,Male,Campus- AI+ ESUT
+253,DSNAIB253,Dolapo Adebo,Male,
+254,DSNAIB254,Tunde Wey,Male,Campus- AI+ LASU
+255,DSNAIB255,Hammed Balogun,Male,
+256,DSNAIB256,Gift Anyaoma,Female,Campus- AI+ UI
+257,DSNAIB257,Precious Adedibu,Male,Campus- AI+ UNILAG
+258,DSNAIB258,Habeeb Olokoto Olaitan,Male,City- AI+ Kano
+259,DSNAIB259,Jeffrey Otoibhi,Male,Campus- AI+ UNILAG
+260,DSNAIB260,Fadipe Daniel,Male,Campus- AI+ FUNAAB
+261,DSNAIB261,Jimoh Sodiq,Male,
+262,DSNAIB262,Akande Ifeoluwa,Male,Campus- AI+ OAU
+263,DSNAIB263,Oluwaseyi Ogunlana,Male,City- AI+ Ijebu-Ode
+264,DSNAIB264,Srihari Mohan,Male,
+265,DSNAIB265,Solomon Oyedeji Lawuyi,Male,
+266,DSNAIB266,Kabirat Olayemi,Female,
+267,DSNAIB267,Idris Adeyemi Idris,Male,Campus- AI+ UNILAG
+268,DSNAIB268,Mustapha Ibraheem,Male,
+269,DSNAIB269,Clara Odiri,Female,Campus- AI+ UNILAG
+270,DSNAIB270,David Makinde,Male,
+271,DSNAIB271,Philip Ireoluwa Okiokio,Male,Campus- AI+ FUTA
+272,DSNAIB272,Glory Bassey,Female,City- AI+ Abeokuta
+273,DSNAIB273,Taiwo Adegite,Male,Campus- AI+ FUTA
+274,DSNAIB274,Peter Ndihika,Male,City- AI+ Enugu
+275,DSNAIB275,Oluwole Akintoye,Male,Campus- AI+ FUOYE
+276,DSNAIB276,Memudu Sadia,Female,Campus- AI+ UNILORIN
+277,DSNAIB277,Julius Odunuga,Male,City- AI+ Lokoja
+278,DSNAIB278,Daniel Sadeko,Male,Campus- AI+ UNILAG
+279,DSNAIB279,Otu Ekong Moses,Male,
+280,DSNAIB280,Bolaji Oladipo,Male,
+281,DSNAIB281,Oluwaloni Emmanuel,Male,Campus- AI+ FUOYE
+282,DSNAIB282,Emmanuel Oyekanmi,Male,Campus- AI+ OAU
+283,DSNAIB283,Adesina Abdulrahman,Male,Campus- AI+ UI
+284,DSNAIB284,Benedict Godwin,Male,Campus- AI+ UI
+285,DSNAIB285,Olaniyan Oluwasegun,Male,
+286,DSNAIB286,Kamaldeen Seriki,Male,Campus- AI+ UNILAG
+287,DSNAIB287,Daniel Adebowale,Male,Campus- AI+ FUTA
+288,DSNAIB288,Idongesit Ansa,Female,City- AI+ Uyo
+289,DSNAIB289,Kehinde Baasit Kehinde,Male,Campus- AI+ OAU
+290,DSNAIB290,Abdulazeez Adedayo,Male,Campus- AI+ LAUTECH
+291,DSNAIB291,Ayomide Aderonmu,Male,Campus- AI+ UNILAG
+292,DSNAIB292,Silas Godwin,Male,Campus- AI+ AAU
+293,DSNAIB293,Kenneth Istifanus,Male,Campus- AI+ FUT
+294,DSNAIB294,Tomiwa Adegbite,Male,City- AI+ Akure
+295,DSNAIB295,Muhammad Abiodun Sulaiman,Male,
+296,DSNAIB296,Cla-Petra Omaku,Female,
+297,DSNAIB297,Ekemini Okpongkpong,Female,City- AI+ Uyo
+298,DSNAIB298,Olajumoke Olawale Israel,Male,Campus- AI+ FUNAAB
+299,DSNAIB299,Omeh Chukwuemeka,Male,City- AI+ Enugu
+300,DSNAIB300,Ahmed Oluwatosin Ogunbiyi,Male,Campus- AI+ FUNAAB
+301,DSNAIB301,Chidimma Nweke,Male,City- AI+ Owerri
+302,DSNAIB302,Ameenah Olonade,Female,City- AI+ Abeokuta
+303,DSNAIB303,Chizurum Ibeawuchi,Female,City- AI+ Owerri
+304,DSNAIB304,Babatunde Abdulhameed,Male,Campus- AI+ FUTA
+305,DSNAIB305,Aliyu Wasiu Timilehin,Male,Campus- AI+ LAUTECH
+306,DSNAIB306,Triumph Ogeh,Female,Campus- AI+ FUTA
+307,DSNAIB307,Saheed Kazeem,Male,Campus- AI+ FUOYE
+308,DSNAIB308,Emmanuel Jolaiya,Male,City- AI+ Akure
+309,DSNAIB309,Samuel Okunola,Male,Campus- AI+ UI
+310,DSNAIB310,Doyinsolami Olaoye,Male,Campus- AI+ OAU
+311,DSNAIB311,Sodiq Muraina,Male,Campus- AI+ LAUTECH
+312,DSNAIB312,Abimbola Ojikutu,Female,City- AI+ Port Harcourt
+313,DSNAIB313,Chinwendu Onuoha,Female,Campus- AI+ UNILAG
+314,DSNAIB314,Solomon Nnamani,Male,City- AI+ Asaba
+315,DSNAIB315,Olawale A. Ogundeji,Male,City- AI+ Abeokuta
+316,DSNAIB316,Salvage Ajibade,Female,Campus- AI+ FUTA
+317,DSNAIB317,Osagie Iyayi,Male,Campus- AI+ UNILAG
+318,DSNAIB318,Matthew Oladipupo,Male,Campus- AI+ UI
+319,DSNAIB319,Fortune Adekogbe,Male,Campus- AI+ UNILAG
+320,DSNAIB320,Adebola Suleiman,Female,
+321,DSNAIB321,Joseph Chibueze,Male,
+322,DSNAIB322,Victor Akoh,,City- AI+ Lokoja
+323,DSNAIB323,Mustapha Muhammad Ibrahim,Male,Campus- AI+ BUK
+324,DSNAIB324,Lucky Ajidoku,Male,Campus- AI+ BUK
+325,DSNAIB325,Motunrayo Olugbenga,Female,Campus- AI+ OAU
+326,DSNAIB326,Uthman Tijani,Male,Campus- AI+ FUTA
+327,DSNAIB327,Abisoye Suberu,Male,Campus- AI+ FUTA
+328,DSNAIB328,Augustine Chukwu,Male,City- AI+ Owerri
+329,DSNAIB329,Oluwaseyi Oshikoya,Male,
+330,DSNAIB330,Atama Alhassan,Male,City- AI+ Kano
+331,DSNAIB331,Atoyebi Samuel,Male,Campus- AI+ FUTA
+332,DSNAIB332,Qodri Hassan,Male,
+333,DSNAIB333,Vivian Maria-Goretti Okonkwo,Female,City- AI+ Abeokuta
+334,DSNAIB334,Blessed Ariagbofo,Male,City- AI+ Benin
+335,DSNAIB335,Oluwaseyi Odude,Male,
+336,DSNAIB336,Samuel Adeyeye,Male,City- AI+ Akure
+337,DSNAIB337,Saola Olaoluwa,,
+338,DSNAIB338,Olufunmilayo Aforijiku,Female,City- AI+ Ibadan
+339,DSNAIB339,Ajao Wasiu,Male,City- AI+ Abuja
+340,DSNAIB340,Sheriff Shittu,Male,Campus- AI+ FUTA
+341,DSNAIB341,Mary Ehapa,Female,Campus- AI+ UI
+342,DSNAIB342,Osayuwamen Abu,Male,City- AI+ Benin
+343,DSNAIB343,Ekemini Umanah,Female,City- AI+ Ijebu-Ode
+344,DSNAIB344,Rita Jesufunbi Bolarinwa,Female,City- AI+ Abeokuta
+345,DSNAIB345,Mariam Olasunkanmi-Ojo,Female,Campus- AI+ OAU
+346,DSNAIB346,Jahfaith Irokanulo,Male,Campus- AI+ LASU
+347,DSNAIB347,Tenifayo Fagbemi,Female,Campus- AI+ OAU
+348,DSNAIB348,Grace Oluwaseun,Female,
+349,DSNAIB349,Emmanuel Patrick,Male,
+350,DSNAIB350,Favour Oyewumi,Male,Campus- AI+ UNILAG
+351,DSNAIB351,Holister Ogah,Male,
+352,DSNAIB352,James Ononiwu,Male,Campus- AI+ MOUAU
+353,DSNAIB353,Iheagwara Ifeanyi Benedict,Male,
+354,DSNAIB354,Kehinde Adeniye,Female,Campus- AI+ UNILAG
+355,DSNAIB355,Olawumi Roseline Olasunkanmi,Female,Campus- AI+ LAUTECH
+356,DSNAIB356,Ifeoma Okoh,Female,City- AI+ Ibadan
+357,DSNAIB357,Chizurum Olorondu,Male,Campus- AI+ UNILAG
+358,DSNAIB358,Michael Anazodo,Male,Campus- AI+ ESUT
+359,DSNAIB359,Joshua Olawale,Male,
+360,DSNAIB360,Adedoyin Agunbiade,Female,City- AI+ Akure
+361,DSNAIB361,Abass Olaiya,Male,City- AI+ Ibadan
+362,DSNAIB362,Jesufemi Oladapo,Male,Campus- AI+ OAU
+363,DSNAIB363,Lukman Afolabi,Male,City- AI+ Zaria
+364,DSNAIB364,Ebiendele Precious,Male,Campus- AI+ FUTA
+365,DSNAIB365,Hamed Tijani Sanusi,Male,City- AI+ Abuja
+366,DSNAIB366,Victoria Akintomide,Female,
+367,DSNAIB367,Victor Adedeji,Male,
+368,DSNAIB368,Olawale Goodluck,Male,Campus- AI+ UNILAG
+369,DSNAIB369,Nathan Zoakah,Male,City- AI+ Jos
+370,DSNAIB370,Theodore Anyika,Male,Campus- AI+ UNILAG
+371,DSNAIB371,Kenneth Asogwa,Male,
+372,DSNAIB372,Alamin Musa Magaga,Male,City- AI+ Ijebu-Ode
+373,DSNAIB373,Oluwatosin Jayeola,Male,City- AI+ Port Harcourt
+374,DSNAIB374,Amol Marathe,Male,
+375,DSNAIB375,Desetty Vijaya Satya Gowri Sai Krishna,Male,Campus- AI+ UNILAG
+376,DSNAIB376,Oladipupo Ibeun,Male,City- AI+ Ijebu-Ode
+377,DSNAIB377,Oluwabori Aduragbemi Ola,Male,Campus- AI+ UNILAG
+378,DSNAIB378,Chidinma Oduenyi,Female,City- AI+ Enugu
+379,DSNAIB379,Tolubori Adeoti,Female,Campus- AI+ UNILORIN
+380,DSNAIB380,Koyenikan Esther Arinola,Female,Campus- AI+ FUTA
+381,DSNAIB381,Tomisin Ayodabo,Male,Campus- AI+ UI
+382,DSNAIB382,Adedayo Ogunola,Male,Campus- AI+ UNILAG
+383,DSNAIB383,Babatunde Ayanlowo,Male,Campus- AI+ Bells
+384,DSNAIB384,Isaiah Olatunbosun,Male,City- AI+ Abuja
+385,DSNAIB385,Oluwatobi Awoyomi,Male,City- AI+ Abuja
+386,DSNAIB386,Busirah Hammed,Female,Campus- AI+ OAU
+387,DSNAIB387,Victor Joseph,Male,Campus- AI+ ESUT
+388,DSNAIB388,Raphael Olukoya,Male,
+389,DSNAIB389,Ilekura Idowu,Male,Campus- AI+ FUPRE
+390,DSNAIB390,Adigun Sunday Ariyo,Male,City- AI+ Ibadan
+391,DSNAIB391,Oluwaseyi Adaramola,Male,
+392,DSNAIB392,Oluwabambi Awe,Male,
+393,DSNAIB393,Ismail Ahmed Senior,Male,Campus- AI+ UNILORIN
+394,DSNAIB394,Temitope Bimbo Babatola,Female,City- AI+ Ibadan
+395,DSNAIB395,Helen Nneka Ifedi,Female,City- AI+ Enugu
+396,DSNAIB396,Felix Momoh,,City- AI+ Abuja
+397,DSNAIB397,Emmanuel Akanji,Male,Campus- AI+ FUNAAB
+398,DSNAIB398,Uzochukwu Uruakpa,Male,City- AI+ Owerri
+399,DSNAIB399,Emeka Paul Orji,Male,Campus- AI+ UI
+400,DSNAIB400,Ibrahim Dattijo Makama,Male,City- AI+ Bauchi
+401,DSNAIB401,Ibrahim Murtala Muhammad,Male,City- AI+ Bauchi
+402,DSNAIB402,Izeuma Thankgod Egbeshiobu,Male,City- AI+ Owerri
+403,DSNAIB403,Chigozie Francis Obasi,Male,
+404,DSNAIB404,Celestine Azonobi,Male,
+405,DSNAIB405,Wadud Ambali,Male,Campus- AI+ OAU
+406,DSNAIB406,Moshood Yahaya,Male,
+407,DSNAIB407,Wasiu Sulaimon,Male,Campus- AI+ UNILAG
+408,DSNAIB408,Mercy Akinkuotu,Female,
+409,DSNAIB409,Ismail Yusuf,Male,Campus- AI+ LAUTECH
+410,DSNAIB410,Blessing Bassey,Female,Campus- AI+ UNILORIN
+411,DSNAIB411,John Onwubiko,Male,
+412,DSNAIB412,Adebowale Akande,Male,City- AI+ Abuja
+413,DSNAIB413,Mustapha Qomorudeen,Male,City- AI+ Ilorin
+414,DSNAIB414,Francis Onyango,Male,
+415,DSNAIB415,Lanre-Atoyebi Olanrewaju,Male,Campus- AI+ FUTA
+416,DSNAIB416,Martha Otisi Dimgba,Female,
+417,DSNAIB417,Davies Joseph,Male,Campus- AI+ UNILAG
+418,DSNAIB418,Oluwatimilehin Adebunmi,Male,Campus- AI+ LASU
+419,DSNAIB419,Mukthar Abdulwaheed,Male,Campus- AI+ UNILAG
+420,DSNAIB420,Kehinde Egbetokun,Female,
+421,DSNAIB421,Onyeka Okonkwo,Female,
+422,DSNAIB422,John Alokan,Male,Campus- AI+ FUOYE
+423,DSNAIB423,Ivie Alex,Female,
+424,DSNAIB424,Oluyede Segun,Male,Campus- AI+ FUTA
+425,DSNAIB425,Oluwaseun Oladapo,Female,City- AI+ Ibadan
+426,DSNAIB426,Jeremiah Oluwafiropo Patrick,Male,City- AI+ Akure
+427,DSNAIB427,Muhammad Adamu Dembo,Male,City- AI+ Bauchi
+428,DSNAIB428,Gold Ochim,Female,City- AI+ Jos
+429,DSNAIB429,Mandieng Bot,Male,City- AI+ Jos
+430,DSNAIB430,Olawale Abulrasheed,Male,Campus- AI+ FUOYE
+431,DSNAIB431,Babajide Fagoroye,Male,
+432,DSNAIB432,Tochi Ebere,Female,City- AI+ Jos
+433,DSNAIB433,Agbo Dozie,Male,Campus- AI+ UNILAG
+434,DSNAIB434,Bolaji Jimoh Adigun,Male,Campus- AI+ UNILAG
+435,DSNAIB435,Isaac Ayobami Ogunjinmi,Male,City- AI+ Ibadan
+436,DSNAIB436,Tomiisin Alex-Aina,Female,
+437,DSNAIB437,Promise Jeremiah,Male,City- AI+ Port Harcourt
+438,DSNAIB438,Promise Amaechi,Male,
+439,DSNAIB439,Isah Yakubu Musa,Male,
+440,DSNAIB440,Isaiah Oluwamayomikun Olaoye,Male,Campus- AI+ FUOYE
+441,DSNAIB441,Kazeem Tajudeen,Male,Campus- AI+ UNILORIN
+442,DSNAIB442,"Ekle, Ocheme Anthony",Male,City- AI+ Kaduna
+443,DSNAIB443,Favour Oyelami,Male,Campus- AI+ UI
+444,DSNAIB444,Micheal Akinkuotu,Male,Campus- AI+ UNILAG
+445,DSNAIB445,Ezeoke Godswill Chidera,Male,Campus- AI+ OAU
+446,DSNAIB446,Oluwafunmilayo Somoye,Female,City- AI+ Port Harcourt
+447,DSNAIB447,Alexander Nwakanma,Male,Campus- AI+ UNILAG
+448,DSNAIB448,Esther Idowu,Female,City- AI+ Ibadan
+449,DSNAIB449,Mofetoluwa Adeyemi,Female,
+450,DSNAIB450,Benedict Yekovie,Male,Campus- AI+ UNILAG
+451,DSNAIB451,Comfort Godwin,Female,
+452,DSNAIB452,Lawrence Osaigbokan Ekunwe,Male,City- AI+ Port Harcourt
+453,DSNAIB453,Osamudiamen Samuel Osagiede,Male,City- AI+ Benin
+454,DSNAIB454,Gideon Sodipo,Male,Campus- AI+ FUNAAB
+455,DSNAIB455,Charles Precious,Female,
+456,DSNAIB456,Abdulrasheed Lawal,Male,
+457,DSNAIB457,Olasumbo Banjoko,Female,Campus- AI+ UI
+458,DSNAIB458,Agwuda Awodi,Female,City- AI+ Zaria
+459,DSNAIB459,Sophia Okito,Female,Campus- AI+ FUPRE
+460,DSNAIB460,Amos Agbetile,Male,Campus- AI+ UNILAG
+461,DSNAIB461,Marvellous Alabi,Male,Campus- AI+ FUTA
+462,DSNAIB462,Maryam Bello,Female,Campus- AI+ UNILAG
+463,DSNAIB463,Idris Lawal,Male,Campus- AI+ UNILAG
+464,DSNAIB464,Kolawole Somade,Male,Campus- AI+ Bells
+465,DSNAIB465,Florence-Sarah Egwu,Female,City- AI+ Calabar
+466,DSNAIB466,Grace Omojola,Female,Campus- AI+ OAU
+467,DSNAIB467,Muhammed Jimoh,,
+468,DSNAIB468,Nuruddeen Sambo,Male,City- AI+ Bauchi
+469,DSNAIB469,Tamaraebi Dogubo,Female,
+470,DSNAIB470,Ugochukwu Nnachor,Male,Campus- AI+ UNIBEN
+471,DSNAIB471,Kehinde Ogundeyi,Female,Campus- AI+ UNILAG
+472,DSNAIB472,Faheedah Bukola Bello,Female,
+473,DSNAIB473,Daniel Olabemiwo,Male,Campus- AI+ UNILORIN
+474,DSNAIB474,Oluwakemi Adedoyin-Sule,Female,
+475,DSNAIB475,Emmanuel Stephen,Male,Campus- AI+ FUTA
+476,DSNAIB476,Abdulrazaq Ailokpede,Male,Campus- AI+ UNIBEN
+477,DSNAIB477,Patience Itotojesu,Female,City- AI+ Benin
+478,DSNAIB478,Firdaws Anisatullah Badmus,Female,City- AI+ Abuja
+479,DSNAIB479,Abiona Adedayo,Male,Campus- AI+ OAU
